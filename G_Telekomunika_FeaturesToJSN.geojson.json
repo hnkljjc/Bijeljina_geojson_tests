@@ -1,0 +1,251 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Entity" : "Entity",
+    "Handle" : "Handle",
+    "Layer" : "Layer",
+    "LyrFrzn" : "LyrFrzn",
+    "LyrLock" : "LyrLock",
+    "LyrOn" : "LyrOn",
+    "LyrVPFrzn" : "LyrVPFrzn",
+    "LyrHandle" : "LyrHandle",
+    "Color" : "Color",
+    "EntColor" : "EntColor",
+    "LyrColor" : "LyrColor",
+    "BlkColor" : "BlkColor",
+    "Linetype" : "Linetype",
+    "EntLinetype" : "EntLinetype",
+    "LyrLnType" : "LyrLnType",
+    "BlkLinetype" : "BlkLinetype",
+    "LTScale" : "LTScale",
+    "Elevation" : "Elevation",
+    "Thickness" : "Thickness",
+    "LineWt" : "LineWt",
+    "EntLineWt" : "EntLineWt",
+    "LyrLineWt" : "LyrLineWt",
+    "BlkLineWt" : "BlkLineWt",
+    "RefName" : "RefName",
+    "ExtX" : "ExtX",
+    "ExtY" : "ExtY",
+    "ExtZ" : "ExtZ",
+    "DocName" : "DocName",
+    "DocPath" : "DocPath",
+    "DocType" : "DocType",
+    "DocVer" : "DocVer",
+    "DocUpdate" : "DocUpdate",
+    "DocId" : "DocId",
+    "DT" : "DT",
+    "KT" : "KT",
+    "Shape_Length" : "Shape_Length"
+  },
+  "geometryType" : "esriGeometryPolyline",
+  "spatialReference" : {
+    "wkid" : 8678,
+    "latestWkid" : 8678
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Entity",
+      "type" : "esriFieldTypeString",
+      "alias" : "Entity",
+      "length" : 255
+    },
+    {
+      "name" : "Handle",
+      "type" : "esriFieldTypeString",
+      "alias" : "Handle",
+      "length" : 255
+    },
+    {
+      "name" : "Layer",
+      "type" : "esriFieldTypeString",
+      "alias" : "Layer",
+      "length" : 255
+    },
+    {
+      "name" : "LyrFrzn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrFrzn"
+    },
+    {
+      "name" : "LyrLock",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrLock"
+    },
+    {
+      "name" : "LyrOn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrOn"
+    },
+    {
+      "name" : "LyrVPFrzn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrVPFrzn"
+    },
+    {
+      "name" : "LyrHandle",
+      "type" : "esriFieldTypeString",
+      "alias" : "LyrHandle",
+      "length" : 255
+    },
+    {
+      "name" : "Color",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Color"
+    },
+    {
+      "name" : "EntColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "EntColor"
+    },
+    {
+      "name" : "LyrColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrColor"
+    },
+    {
+      "name" : "BlkColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "BlkColor"
+    },
+    {
+      "name" : "Linetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "Linetype",
+      "length" : 255
+    },
+    {
+      "name" : "EntLinetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "EntLinetype",
+      "length" : 255
+    },
+    {
+      "name" : "LyrLnType",
+      "type" : "esriFieldTypeString",
+      "alias" : "LyrLnType",
+      "length" : 255
+    },
+    {
+      "name" : "BlkLinetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "BlkLinetype",
+      "length" : 255
+    },
+    {
+      "name" : "LTScale",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LTScale"
+    },
+    {
+      "name" : "Elevation",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Elevation"
+    },
+    {
+      "name" : "Thickness",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Thickness"
+    },
+    {
+      "name" : "LineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LineWt"
+    },
+    {
+      "name" : "EntLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "EntLineWt"
+    },
+    {
+      "name" : "LyrLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrLineWt"
+    },
+    {
+      "name" : "BlkLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "BlkLineWt"
+    },
+    {
+      "name" : "RefName",
+      "type" : "esriFieldTypeString",
+      "alias" : "RefName",
+      "length" : 255
+    },
+    {
+      "name" : "ExtX",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtX"
+    },
+    {
+      "name" : "ExtY",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtY"
+    },
+    {
+      "name" : "ExtZ",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtZ"
+    },
+    {
+      "name" : "DocName",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocName",
+      "length" : 255
+    },
+    {
+      "name" : "DocPath",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocPath",
+      "length" : 255
+    },
+    {
+      "name" : "DocType",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocType",
+      "length" : 255
+    },
+    {
+      "name" : "DocVer",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocVer",
+      "length" : 255
+    },
+    {
+      "name" : "DocUpdate",
+      "type" : "esriFieldTypeDate",
+      "alias" : "DocUpdate",
+      "length" : 8
+    },
+    {
+      "name" : "DocId",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "DocId"
+    },
+    {
+      "name" : "DT",
+      "type" : "esriFieldTypeString",
+      "alias" : "DT",
+      "length" : 255
+    },
+    {
+      "name" : "KT",
+      "type" : "esriFieldTypeString",
+      "alias" : "KT",
+      "length" : 255
+    },
+    {
+      "name" : "Shape_Length",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape_Length"
+    }
+  ],
+  "features" : [{"attributes":{"OBJECTID":1,"Entity":"Line","Handle":"1BC16A","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":41.369849897355117},"geometry":{"paths":[[[6551513.1369000003,4977133.6900999993],[6551525.3289000001,4977153.1225000005],[6551535.1234999998,4977168.7336999997]]]}},{"attributes":{"OBJECTID":2,"Entity":"Line","Handle":"1BC16B","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":18.564133214113532},"geometry":{"paths":[[[6551535.1234999998,4977168.7336999997],[6551549.8699000003,4977180.0107000005]]]}},{"attributes":{"OBJECTID":3,"Entity":"Line","Handle":"1BC173","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":49.771353462208523},"geometry":{"paths":[[[6551549.8699000003,4977180.0107000005],[6551598.8497000001,4977171.1695000008]]]}},{"attributes":{"OBJECTID":4,"Entity":"Line","Handle":"1BC174","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":42.394209208639303},"geometry":{"paths":[[[6551598.8497000001,4977171.1695000008],[6551639.6693000002,4977159.7226999998]]]}},{"attributes":{"OBJECTID":5,"Entity":"Line","Handle":"1BC175","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":27.193238232318144},"geometry":{"paths":[[[6551639.6693000002,4977159.7226999998],[6551661.3964999998,4977143.3703000005]]]}},{"attributes":{"OBJECTID":6,"Entity":"Line","Handle":"1BC176","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":75.424824085975303},"geometry":{"paths":[[[6551661.3964999998,4977143.3703000005],[6551735.1595000001,4977127.6247000005]]]}},{"attributes":{"OBJECTID":7,"Entity":"Line","Handle":"1BC177","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":38.279498417458008},"geometry":{"paths":[[[6551735.1595000001,4977127.6247000005],[6551773.0648999996,4977122.2861000001]]]}},{"attributes":{"OBJECTID":8,"Entity":"Line","Handle":"1BC178","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":37.051431008205618},"geometry":{"paths":[[[6551773.0648999996,4977122.2861000001],[6551808.7685000002,4977112.3835000005]]]}},{"attributes":{"OBJECTID":9,"Entity":"Line","Handle":"1BC179","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":36.239986244355414},"geometry":{"paths":[[[6551808.7685000002,4977112.3835000005],[6551842.7295000004,4977099.7348999996]]]}},{"attributes":{"OBJECTID":10,"Entity":"Line","Handle":"1BC17A","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":39.87118517632036},"geometry":{"paths":[[[6551842.7295000004,4977099.7348999996],[6551879.2012999998,4977083.6252999995]]]}},{"attributes":{"OBJECTID":11,"Entity":"Line","Handle":"1BC17B","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":5.8758985188708399},"geometry":{"paths":[[[6551879.2012999998,4977083.6252999995],[6551884.4675000003,4977086.2316999994]]]}},{"attributes":{"OBJECTID":12,"Entity":"Line","Handle":"1BC1FC","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":19.747257273323733},"geometry":{"paths":[[[6551842.7295000004,4977099.7348999996],[6551841.8530999999,4977119.4627]]]}},{"attributes":{"OBJECTID":13,"Entity":"Line","Handle":"1BC1FE","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":31.986297156886476},"geometry":{"paths":[[[6551884.4675000003,4977086.2316999994],[6551913.4193000002,4977099.8300999999]]]}},{"attributes":{"OBJECTID":14,"Entity":"Line","Handle":"1BC4AA","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":20.520961538411012},"geometry":{"paths":[[[6550374.7295000004,4979056.6193000004],[6550391.6392999999,4979068.2455000002]]]}},{"attributes":{"OBJECTID":15,"Entity":"Line","Handle":"1BC4AB","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":31.35462711403402},"geometry":{"paths":[[[6550391.6392999999,4979068.2455000002],[6550413.2235000003,4979090.9882999994]]]}},{"attributes":{"OBJECTID":16,"Entity":"Line","Handle":"1BC531","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":41.350286534322471},"geometry":{"paths":[[[6550199.1898999996,4979441.7157000005],[6550161.9826999996,4979459.7565000001]]]}},{"attributes":{"OBJECTID":17,"Entity":"Line","Handle":"1BC532","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":39.721944147337425},"geometry":{"paths":[[[6550161.9826999996,4979459.7565000001],[6550141.8397000004,4979469.7792000007],[6550126.4199000001,4979477.4517000001]]]}},{"attributes":{"OBJECTID":18,"Entity":"Line","Handle":"1BC533","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":36.579125541120845},"geometry":{"paths":[[[6550126.4199000001,4979477.4517000001],[6550093.6004999997,4979493.6046999991]]]}},{"attributes":{"OBJECTID":19,"Entity":"Line","Handle":"1BC534","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":30.883403567128855},"geometry":{"paths":[[[6550093.6004999997,4979493.6046999991],[6550065.9206999997,4979507.3018999994]]]}},{"attributes":{"OBJECTID":20,"Entity":"Line","Handle":"1BC5FC","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":33.312487596628401},"geometry":{"paths":[[[6549946.6054999996,4979803.2490999997],[6549979.5865000002,4979798.5613000002]]]}},{"attributes":{"OBJECTID":21,"Entity":"Line","Handle":"1BC5FD","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":29.73708362331833},"geometry":{"paths":[[[6549979.5865000002,4979798.5613000002],[6550006.9715,4979810.1524999999]]]}},{"attributes":{"OBJECTID":22,"Entity":"Line","Handle":"1BC5FE","Layer":"G_Telekomunikaciona mreza","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"13EEC0","Color":6,"EntColor":-1,"LyrColor":6,"BlkColor":0,"Linetype":"DASHED2","EntLinetype":"ByLayer","LyrLnType":"DASHED2","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocPath":"D:\\Projects\\elektro-bijeljina-presale\\Elektro-Bijeljina_Presale\\_KTP_Elektroenergetska mreza EDB_Pelagicevo-Donji Zabari-Brcko-sve spojeno def.dwg","DocType":"DWG","DocVer":"AC1018","DocUpdate":1691755531000,"DocId":6602526612893489152,"DT":null,"KT":null,"Shape_Length":33.198988960543147},"geometry":{"paths":[[[6550006.9715,4979810.1524999999],[6550019.1047,4979841.0548999999]]]}}]
+}
